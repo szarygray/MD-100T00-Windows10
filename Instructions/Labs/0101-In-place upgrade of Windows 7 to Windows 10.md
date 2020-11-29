@@ -39,6 +39,10 @@ As Windows 7 is reaching end of support in the near future your manager wants yo
 
 ### Task 2: Perform an in-place upgrade from local media
 
+Add Win10_1903_Eval to Virtual Machine LON-CL6
+In Hyper-V select VM LON-CL6 in richt panel select SETRINGS...
+In IDE Controller 1 and select DVD Drive select check Images file -> browse -> c:\Program Files\Microsoft Learning\MD100\Drives\Win10_1903_Eval.iso and clic Open and OK 
+
 1.  Sign in to LON-CL6 as **Adatum\\Administrator** with the password **Pa55w.rd**
 
 2.  If a Microsoft Windows dialog box opens, select **Restart Later**.
